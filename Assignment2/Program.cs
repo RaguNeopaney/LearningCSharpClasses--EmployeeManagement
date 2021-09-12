@@ -36,12 +36,6 @@
             System.Console.WriteLine("Type of Employee: "+ Employee.typeOfEmployee);
             System.Console.WriteLine("Employee Department: "+ emp.departmentName);
 
-
-
-
-
-            // counter for number of employies
-            int empNumbers = 1;
           
             System.Console.Write("Do you wish to continue adding employee? (yes/no) : ");
             userInput = System.Console.ReadLine();
